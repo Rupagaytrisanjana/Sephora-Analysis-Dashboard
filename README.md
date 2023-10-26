@@ -1,8 +1,13 @@
 # Sephora-Analysis-Dashboard
-Sephora Data Analysis Dashboard.
-SEPHORA DATA ANALYSIS!!!! (EXCEL)
+SEPHORA DATA ANALYSIS DASHBOARD!!!!! (MICROSOFT EXCEL)
 
 I'm soooo into skincare and makeup products. SEPHORA is known for assisted self-service, we can literally grab whatever, you can try it on and choose what's the right fit. SEPHORA employs over 36,000 people, has more than 2,700 stores located over 35 countries these carries about 250 brands. SEPHORA is such a hot store for makeup brands to sell their products in it ends up having lot of leverage. So, coming to the project that I've done is a quite amount of SEPHORA's database. I solved some queries using EXCEL.
+THE STEPS I FOLLOWED DURING THIS PROJECT ARE:
+1.DATA COLLECTION AND CLEANING.
+2.DATA ANALYSIS AND INTERPRETATION.
+3.DATA VISUALIZATION.
+4.BUSINESS INSIGHTS.
+5.DATA DRIVEN SOLUTIONS.
 
 >STEP 1: The first thing I'd is "Data Cleaning" among the data fields. I removed some URL fields which are incomplete it's vast amount of data so deleting them is quite option for us. Replaced some data by using Find and Replace and added one column for ratings using nested if. if the ratings are 5 those are the best, if the ratings are 4.0 and 3.0 range those are good, if they are 2 or 1 it's avergae product. 
 
