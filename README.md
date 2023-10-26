@@ -2,6 +2,8 @@
 SEPHORA DATA ANALYSIS DASHBOARD!!!!! (MICROSOFT EXCEL)
 
 I'm soooo into skincare and makeup products. SEPHORA is known for assisted self-service, we can literally grab whatever, you can try it on and choose what's the right fit. SEPHORA employs over 36,000 people, has more than 2,700 stores located over 35 countries these carries about 250 brands. SEPHORA is such a hot store for makeup brands to sell their products in it ends up having lot of leverage. So, coming to the project that I've done is a quite amount of SEPHORA's database. I solved some queries using EXCEL.
+
+
 THE STEPS I FOLLOWED DURING THIS PROJECT ARE:
 1.DATA COLLECTION AND CLEANING.
 2.DATA ANALYSIS AND INTERPRETATION.
